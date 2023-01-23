@@ -1,6 +1,7 @@
 pipeline {
     agent any
     https://github.com/patebija/simple-node-js-react-npm-app
+        https://www.youtube.com/watch?v=pE89647F36c
     environment {
         CI = 'true'
     }
